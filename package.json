@@ -1,0 +1,22 @@
+{
+  "name": "mainpackage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Untitled-1.js",
+  "scripts": {
+    "build": "browserify script.js > bundle.js && live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiorHaz/LiorHaz.github.io.git"
+  },
+  "author": "Lior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiorHaz/LiorHaz.github.io/issues"
+  },
+  "homepage": "https://github.com/LiorHaz/LiorHaz.github.io#readme",
+  "dependencies": {
+    "lodash": "^4.17.19"
+  }
+}
